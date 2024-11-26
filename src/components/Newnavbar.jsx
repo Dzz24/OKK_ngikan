@@ -59,7 +59,7 @@ function Newnavbar(){
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">hiasan</a>
+          <a href='https://forms.gle/MyVe7ZPeMuiAAG4u5' className="btn">Form Kepuasan</a>
         </div>
       </div>
     )
