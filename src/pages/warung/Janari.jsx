@@ -20,7 +20,7 @@ function Janari() {
     lemak="lemak: Mayonnaise "
     vitamin="vitamin: Salad"
     bgSrc={bgSrc}
-    makanan1="Nasi Goreng"
+    makanan1="Nasi Goreng "
     makanan2="Indomie"
     makanan3="Kentang Balado"
     makanan4="Tumis Kangkung"
