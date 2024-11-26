@@ -18,6 +18,7 @@ function Gizi() {
           className="bg-fixed bg-center bg-cover p-16 md:p-48 backdrop-blur-sm mb-20 text-center "
           style={{ backgroundImage: `url(${fotoBg})` }}
         >
+          <div className="absolute top-0 left-0 right-0 bottom-0 bg-black opacity-30" />
           <p data-aos="fade-up" className="text-3xl md:text-6xl font-semibold text-white font-['Outfit']">
             Gizi Seimbang
           </p>

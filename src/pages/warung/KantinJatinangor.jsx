@@ -9,8 +9,12 @@ function KantinJatinangor(){
             harga="2.000 - 7.000"
             jamBuka="06.00 - 20.30"
             judulReview= "Review Kantin Jatinangor"
-            detailReview= "Rasanya rich, nasinya pule dan hangat. Luas dan bersih, minum bisa refill Karbohidrat: Nasi, Mie Protein: L Ayam goreng, ayam kecap, ayam rendang, ayam bakar, rolade (isian daging ayam), jamur crispy, ati ampela, sate ayam, pepes tahu, pepes ayam, bakso balado, ikan bandeng, telur goreng, tempe goreng, tahu goreng, tempe bacem Vitamin dan Mineral: Sayur sop, sayur brokoli, jamur crispy, ati ampela, ikan bandeng, telur goreng, tempe, tahu Serat: Sayur sop, sayur brokoli, jamur crispy, tempe, tahu"
+            detailReview= "Rasanya rich, nasinya pule dan hangat. Luas dan bersih, minum bisa refill "
             bgSrc={foto}
+            karbo="Karbohidrat: Nasi,"
+            protein="Protein: L Ayam goreng, ayam kecap, ayam rendang, ayam bakar, rolade (isian daging ayam), jamur crispy, ati ampela, sate ayam, pepes tahu, pepes ayam, bakso balado, ikan bandeng, telur goreng, tempe goreng, tahu goreng, tempe bacem"
+            lemak="Vitamin dan Mineral: Sayur sop, sayur brokoli, jamur crispy, ati ampela, ikan bandeng, telur goreng, tempe"
+            vitamin="Serat: Sayur sop, sayur brokoli, jamur crispy, tempe, tahu"
             makanan1="Ayam Goreng"
             makanan2="Ayam Kecap"
             makanan3="Ayam Katsu"

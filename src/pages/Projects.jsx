@@ -18,6 +18,11 @@ import restuFoto from "../assets/Images/restu.jpg"
 import elthizyFoto from "../assets/Images/elthizy.jpg"
 import regencyFoto from "../assets/Images/regency.jpg"
 import zahrafoto from "../assets/Images/zahra.jpg"
+import heniFoto from "../assets/Images/heni.jpg"
+import umiFoto from "../assets/Images/nasiUmi.jpg"
+import balwilfoto from "../assets/Images/balwil.jpg"
+import fhfoto from "../assets/Images/hukum.jpg"
+import herifoto from "../assets/Images/cakHeri.jpg"
 function Projects() {
     return (
       <>
@@ -25,6 +30,7 @@ function Projects() {
         <div className="bg-[#F5F0E1]">
           {/* Header Section */}
           <div className="bg-fixed bg-center bg-cover p-8 sm:p-40 text-center mb-12" style={{ backgroundImage: `url(${fotoBg})` }}>
+            
             <p data-aos="fade-up" className="text-[#ffffff] text-3xl sm:text-6xl font-semibold font-['Outfit']">
               Informasi dan Rekomendasi
             </p>
@@ -38,12 +44,12 @@ function Projects() {
           <div className="px-4 sm:px-12">
             <SectionHeader title="Area Timur" description="rekomendasi Tempat makan area hegar dan sekitarnya" />
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 overflow-x-auto">
-              <ProjectCard  h1="Janari" p="A landing page for mobile app" btn="Detail" srcPage="/list-warung/janari" imgSrc={janariFoto} />
-              <ProjectCard  h1="Nasi Kulit Hegarmanah" p="A landing page for desktop app" srcPage="/list-warung/nasi-kulit" btn="Detail" imgSrc={kulitFoto} />
-              <ProjectCard  h1="Nasi NKRI" p="A landing page for mobile app" btn="Detail" srcPage="/list-warung/nasi-nkri" imgSrc={nkriFoto} />
-              <ProjectCard  h1="Rumah Padang Elok" p="A landing page for desktop app" srcPage="/list-warung/rm-padang-elok" btn="Detail" imgSrc={rpelokFoto} />
-              <ProjectCard  h1="Warteg Pratama" p="A landing page for mobile app" srcPage="/list-warung/warteg-pratama" btn="Detail" imgSrc={pratamaFoto} />
-              <ProjectCard  h1="Warteg Ridhobahari" p="A landing page for desktop app" srcPage="/list-warung/warteg-ridho" btn="Detail" imgSrc={Ridhobaharifoto} />
+              <ProjectCard  h1="Janari" p="Tempat makan area barat worth it" btn="Detail" srcPage="/list-warung/janari" imgSrc={janariFoto} />
+              <ProjectCard  h1="Nasi Kulit Hegarmanah" p="Tempat makan area barat worth it" srcPage="/list-warung/nasi-kulit" btn="Detail" imgSrc={kulitFoto} />
+              <ProjectCard  h1="Nasi NKRI" p="Tempat makan area barat worth it" btn="Detail" srcPage="/list-warung/nasi-nkri" imgSrc={nkriFoto} />
+              <ProjectCard  h1="Rumah Padang Elok" p="Tempat makan area barat worth it" srcPage="/list-warung/rm-padang-elok" btn="Detail" imgSrc={rpelokFoto} />
+              <ProjectCard  h1="Warteg Pratama" p="Tempat makan area barat worth it" srcPage="/list-warung/warteg-pratama" btn="Detail" imgSrc={pratamaFoto} />
+              <ProjectCard  h1="Warteg Ridhobahari" p="Tempat makan area barat worth it" srcPage="/list-warung/warteg-ridho" btn="Detail" imgSrc={Ridhobaharifoto} />
             </div>
           </div>
   
@@ -57,7 +63,7 @@ function Projects() {
               <ProjectCard  h1="Kantin Sayang" p="Tempat makan area tengah worth it" srcPage="/list-warung/kantin-sayang" btn="Detail" imgSrc={kansayFoto} />
               <ProjectCard  h1="Putra Paliyang" p="Tempat makan area tengah worth it" srcPage="/list-warung/rm-padang-pp" btn="Detail" imgSrc={putrapalFoto} />
               <ProjectCard  h1="Restu Mande" p="Tempat makan area tengah worth it" srcPage="/list-warung/warung-restu-mande" btn="Detail" imgSrc={restuFoto} />
-              <ProjectCard  h1="Kantin Sayang" p="Tempat makan area tengah worth it" srcPage="/list-warung/janari" btn="Detail" imgSrc={gambarTes} />
+              <ProjectCard  h1="Soto Ayam Cak Hari" p="Tempat makan area tengah worth it" srcPage="/list-warung/soto-ayam-hari" btn="Detail" imgSrc={herifoto} />
             </div>
           </div>
   
@@ -65,12 +71,12 @@ function Projects() {
           <div className="px-4 sm:px-12 mt-16">
             <SectionHeader title="Area Barat" description="rekomendasi tempat makan daerah caringin dan sekitarny" />
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 overflow-x-auto">
-              <ProjectCard  h1="Kantin Elthizy" p="Tempat makan area barat worth it" btn="Detail" imgSrc={elthizyFoto} />
-              <ProjectCard  h1="Seblak Regency" p="Tempat makan area barat worth it" btn="Detail" imgSrc={regencyFoto} />
-              <ProjectCard  h1="Warung Az Zahra Regency" p="Tempat makan area barat worth it" btn="Detail" imgSrc={zahrafoto} />
-              <ProjectCard  h1="Warung Heni" p="Tempat makan area barat worth it" btn="Detail" imgSrc={gambarTes} />
-              <ProjectCard  h1="Warung Nasi Padang Restu Mande" p="Tempat makan area barat worth it" btn="Detail" imgSrc={gambarTes} />
-              <ProjectCard  h1="Warung Nasi Umi" p="Tempat makan area barat worth it" btn="Detail" imgSrc={gambarTes} />
+              <ProjectCard  h1="Kantin Elthizy" p="Tempat makan area barat worth it" btn="Detail" srcPage="/list-warung/kantin-elthizy" imgSrc={elthizyFoto} />
+              <ProjectCard  h1="Seblak Regency" p="Tempat makan area barat worth it" btn="Detail" srcPage="/list-warung/seblak-regency" imgSrc={regencyFoto} />
+              <ProjectCard  h1="Warung Az Zahra Regency" p="Tempat makan area barat worth it" srcPage="/list-warung/warung-az-zahra" btn="Detail" imgSrc={zahrafoto} />
+              <ProjectCard  h1="Warung Heni" p="Tempat makan area barat worth it" btn="Detail" srcPage="/list-warung/warung-heni" imgSrc={heniFoto} />
+              <ProjectCard  h1="Warung Nasi Padang Restu Mande" p="Tempat makan area barat worth it" srcPage="/list-warung/warung-restu-mande" btn="Detail" imgSrc={restuFoto} />
+              <ProjectCard  h1="Warung Nasi Umi" p="Tempat makan area barat worth it" btn="Detail" srcPage="/list-warung/warung-nasi-umi" imgSrc={umiFoto} />
             </div>
           </div>
   
@@ -78,8 +84,8 @@ function Projects() {
           <div className="px-4 sm:px-12 mt-16 pb-24">
             <SectionHeader title="Kantin Unpad" description="rekomendasi tempat makan di kampus unpad" />
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 overflow-x-auto">
-              <ProjectCard  h1="Kantin Bale Wilasa 1" p="A landing page for desktop app" btn="Detail" imgSrc={gambarTes} />
-              <ProjectCard  h1="Kantin FH" p="A landing page for mobile app" btn="Detail" imgSrc={gambarTes} />
+              <ProjectCard  h1="Kantin Bale Wilasa 1" p="Tempat makan area unpad worth it" srcPage="/list-warung/kantin-balwil1" btn="Detail" imgSrc={balwilfoto} />
+              <ProjectCard  h1="Kantin FH" p="Tempat makan area unpad worth it" srcPage="/list-warung/kantin-fh" btn="Detail" imgSrc={fhfoto} />
             </div>
           </div>
         </div>

@@ -9,8 +9,11 @@ function WaroengSS(){
             harga="15.000 - 25.000"
             jamBuka="08.00 - 17.00"
             judulReview= "Review Waroeng SS"
-            detailReview= "tempatnya luas dan lumayan nyaman, pelayannya gesit, makanannya semuanya enak, dan buah-buahannya masih segar. Karbohidrat : nasi putih. Protein : daging ayam, sapi, dan cumi. Lemak : daging ayam, sapi, dan cumi berbumbu teriyaki, bulgogi, rica-rica, dll. Vitamin dan Serat"
+            detailReview= "tempatnya luas dan lumayan nyaman, pelayannya gesit, makanannya semuanya enak, dan buah-buahannya masih segar."
             bgSrc={foto}
+            karbo="Karbohidrat : nasi putih."
+            protein="Protein : daging ayam, sapi, dan cumi."
+            lemak="Lemak : daging ayam, sapi, dan cumi berbumbu teriyaki, bulgogi, rica-rica, dll."
             makanan1="Daging Ayam"
             makanan2="Daging Sapi"
             makanan3="Daging Cumi"

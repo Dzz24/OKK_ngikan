@@ -9,8 +9,11 @@ function WarungRestuMande(){
             harga="3.000 - 37.000"
             jamBuka="09.00 - 21.30"
             judulReview= "Review Restu Mande"
-            detailReview= "tempatnya sangat nyaman, ada sofa juga, dan makanannya enak. Karbohidrat : nasi, kentang balado, perkedel. Protein : ayam, cumi, ikan, tahu, tempe, telur. Vitamin dan Mineral : sayur nangka, daun singkong"
+            detailReview= "tempatnya sangat nyaman, ada sofa juga, dan makanannya enak.   "
             bgSrc={foto}
+            karbo="Karbohidrat : nasi, kentang balado, perkedel."
+            protein="Protein : ayam, cumi, ikan, tahu, tempe, telur."
+            lemak="Vitamin dan Mineral : sayur nangka, daun singkong"
             makanan1="Nasi Telur Balado"
             makanan2="Nasi Telur Dadar"
             makanan3="Nasi Rendang Sapi"

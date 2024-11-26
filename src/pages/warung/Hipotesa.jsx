@@ -9,7 +9,12 @@ function Hipotesa(){
             harga="3.000 - 18.000"
             jamBuka="24 Jam"
             judulReview= "Review Hipotesa"
-            detailReview= "Makanannya enak, nasinya hangat, telurnya tebal, jamurnya pun segar. menyediakan tempat makan, tempatnya bersih, tempatnya aga tersembunyi Karbohidrat: nasi putih, nasi goreng, indomie, kentang balado Protein: ayam, telur, sarden lemak: nasi goreng & indomie, telur kornet keju vitamin: tumis kangkung, tahu toge, buncis, es jeruk mineral: sayur, susu, teh serat: sayur, tahu toge, kentang"
+            detailReview= "Makanannya enak, nasinya hangat, telurnya tebal, jamurnya pun segar. menyediakan tempat makan, tempatnya bersih, tempatnya aga tersembunyi  "
+            karbo="Karbohidrat: nasi putih, nasi goreng, indomie, kentang balado"
+            protein="Protein: ayam, telur, sarden"
+            lemak="lemak: nasi goreng & indomie, telur kornet keju "
+            vitamin="vitamin: tumis kangkung, tahu toge, buncis, es jeruk"
+            serat="mineral : sayur, susu, teh"
             bgSrc={foto}
             makanan1="Nasi Goreng"
             makanan2="Indomie"

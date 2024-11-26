@@ -9,7 +9,10 @@ function KantinElthizy(){
             harga="15.000 - 25.000"
             jamBuka="08.00 - 17.00"
             judulReview= "Enaknya Sampe bikin mau Meninggal"
-            detailReview= "Makanan nya memiliki porsi yang sangat banyak sehingga bisa disimpan untuk lain waktu dan rasanya juga enak, ada menu lain juga seperti seafood dan ada menu sayur juga. Tempat makan ini cukup strategis karena dekat dengan jalan raya, tapi agak gelap tempatnya. Karbohidrat : nasi putih. Protein : daging ayam, sapi, dan cumi. Lemak : daging ayam, sapi, dan cumi berbumbu teriyaki, bulgogi, rica-rica, dll."
+            detailReview= "Makanan nya memiliki porsi yang sangat banyak sehingga bisa disimpan untuk lain waktu dan rasanya juga enak, ada menu lain juga seperti seafood dan ada menu sayur juga. Tempat makan ini cukup strategis karena dekat dengan jalan raya, tapi agak gelap tempatnya.  "
+            karbo="Karbohidrat : nasi putih."
+            protein="Protein : daging ayam, sapi, dan cumi."
+            lemak="Lemak : daging ayam, sapi, dan cumi berbumbu teriyaki, bulgogi, rica-rica, dll."
             bgSrc={foto}
             makanan1="Daging Ayam"
             makanan2="Daging Sapi"

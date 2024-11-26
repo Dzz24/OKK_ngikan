@@ -9,7 +9,11 @@ function KantinFH(){
             harga="3.000 - 35.000"
             jamBuka="07.30 - 16.00"
             judulReview= "Review Kantin Fakultas Hukum"
-            detailReview= "makanannya enak, nasi yang masih hangat, ayam bakar dengan tingkat kematangan yang pas, sambal yang enak dan memiliki sayuran yang membuatnya menjadi paket makanan yang sempurna. tempatnya asri, nyaman, para penjualnya juga ramah, memiliki banyak tempat duduk, dan memiliki banyak warung yang bermacam-macam sehingga banyak pilihan makanan yang bisa dibeli. karbohidrat : nasi putih, jagung. protein : ayam bakar, tempe, tahu, jagung. lemak : ayam bakar, kol goreng. vitamin : sayur kol, jagung, wortel. mineral :jagung, wortel. serat : sayur kol, jagung"
+            detailReview= {<>
+            makanannya enak, nasi yang masih hangat, ayam bakar dengan tingkat kematangan yang pas, sambal yang enak dan memiliki sayuran yang membuatnya menjadi paket makanan yang sempurna. tempatnya asri, nyaman, para penjualnya juga ramah, memiliki banyak tempat duduk, dan memiliki banyak warung yang bermacam-macam sehingga banyak pilihan makanan yang bisa dibeli. 
+            <br /> <ul>
+                <li>karbohidrat : nasi putih, jagung.</li><li> protein : ayam bakar, tempe, tahu, jagung. </li> <li> lemak : ayam bakar, kol goreng. </li><li> vitamin : sayur kol, jagung, wortel. </li> <li> mineral :jagung, wortel.</li> <li> serat : sayur kol, jagung</li>
+            </ul></>}
             bgSrc={foto}
             makanan1="Nasi Gila"
             makanan2="Nasi Gila Keju"

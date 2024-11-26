@@ -9,8 +9,12 @@ function RMPadangPP(){
             harga="1.000 - 7.000"
             jamBuka="08.00 - 12.00"
             judulReview= "Review Rumah Makan Padang Putra Paliyang"
-            detailReview= "Porsinya banyak dan enak, ayamnya besar. Tempatnya Bersih, kecil tapi mejanya besar besar. Karbohidrat : Nasi Protein : Telur barendo, Ayam serundeng, ayam gulai, ayam bakar Ikan goreng, kikilVitamin dan Mineral : Sayur Singkong, Sayur Nangka, kikil Serat : sayur singkong, sayur nangka"
+            detailReview= "Porsinya banyak dan enak, ayamnya besar. Tempatnya Bersih, kecil tapi mejanya besar besar.   "
             bgSrc={foto}
+            karbo="Karbohidrat : Nasi"
+            protein="Protein : Telur barendo, Ayam serundeng, ayam gulai, ayam bakar Ikan goreng, kikil"
+            lemak="Vitamin dan Mineral : Sayur Singkong, Sayur Nangka, kikil"
+            vitamin="Serat : sayur singkong, sayur nangka"
             makanan1="Telur Barendo"
             makanan2="Ayam Serundeng"
             makanan3="Ayam Gulai"

@@ -11,6 +11,11 @@ function NasiKulit(){
             jamBuka="07.00 - 22.00"
             judulReview= "Review Nasi Kulit"
             detailReview= "Nasi kulit ayam di sini benar-benar memanjakan lidah. Kulit ayamnya renyah dan gurih, dipadukan dengan sambal yang pedasnya pas. Ayamnya lembut dan kangkungnya segar, memberikan perpaduan rasa yang nikmat. Cocok untuk pecinta makanan berbumbu kuat dan gurih. Tempatnya bersih dan cukup nyaman, meskipun sederhana. Suasana di sini santai dan cocok untuk makan bersama teman atau keluarga. Pelayanannya ramah dan cepat, jadi tidak perlu menunggu lama untuk menikmati makanan."
+            karbo="Karbohidrat : nasi"
+            protein="Protein : ayam"
+            lemak="lemak : kelapa parut, kulit ayam"
+            vitamin="Vitamin dan mineral : ayam, sayur"
+            serat="serat : sayur kangkung"
             imgSrc={foto}
             bgSrc={nasiKulit}
             makanan1="Nasi Ayam"

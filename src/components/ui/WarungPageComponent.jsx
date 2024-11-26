@@ -8,6 +8,11 @@ export default function WarungPageComponent({
   subJudul,
   judulReview,
   detailReview,
+  karbo,
+  protein,
+  lemak,
+  vitamin,
+  serat,
   harga,
   jamBuka,
   imgSrc,
@@ -28,6 +33,7 @@ export default function WarungPageComponent({
         {/* Header Section */}
         <div className="bg-[#faecdf] flex flex-col lg:flex-row items-center gap-8 lg:gap-20 relative bg-fixed bg-center bg-contain p-12 sm:p-20 lg:p-48 backdrop-blur-sm mb-20 "
         style={{ backgroundImage: `url(${bgSrc})` }}>
+          <div className="absolute top-0 left-0 right-0 bottom-0 bg-black opacity-30" />
           <div className="text-center lg:text-left">
             <p data-aos="fade-up" className="text-white text-[32px] sm:text-[48px] font-semibold font-['Outfit']">
               {judul}
@@ -61,11 +67,26 @@ export default function WarungPageComponent({
             <p className="text-[#1E3D59] text-opacity-40 text-sm sm:text-base font-medium font-['Outfit'] leading-loose pt-4 mb-6">
               {detailReview}
             </p>
+            <p className="text-[#1E3D59] text-opacity-40 text-sm sm:text-base font-medium font-['Outfit'] leading-loose">
+              {karbo}
+            </p>
+            <p className="text-[#1E3D59] text-opacity-40 text-sm sm:text-base font-medium font-['Outfit'] leading-loose mb-1">
+              {protein}
+            </p>
+            <p className="text-[#1E3D59] text-opacity-40 text-sm sm:text-base font-medium font-['Outfit'] leading-loose mb-1">
+              {lemak}
+            </p>
+            <p className="text-[#1E3D59] text-opacity-40 text-sm sm:text-base font-medium font-['Outfit'] leading-loose mb-1">
+              {vitamin}
+            </p>
+            <p className="text-[#1E3D59] text-opacity-40 text-sm sm:text-base font-medium font-['Outfit'] leading-loose mb-1">
+              {serat}
+            </p>
             <a
               href=""
-              className="inline-block text-white text-sm sm:text-base font-semibold font-['Noto Sans'] leading-loose bg-300 px-6 py-4 rounded-lg"
+              className="inline-block bg-[#72B354] text-white text-sm sm:text-base font-semibold font-['Noto Sans'] leading-loose bg-300 px-6 py-4 rounded-lg mt-8"
             >
-              Service Detail
+              Worth it
             </a>
           </div>
           <div className="w-full sm:w-1/2 lg:w-full">

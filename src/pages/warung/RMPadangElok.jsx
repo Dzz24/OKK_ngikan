@@ -7,8 +7,11 @@ function RMPadangElok(){
             judul= "RM Padang Elok"
             subJudul= "Rumah Padang Elok adalah rumah makan padang yang memiliki banyak menu makanan khas padang. Makananya memiliki rasa nya enak, cocok untuk mahasiswa karena memiliki menu yang beragam dan porsinya juga tergolong banyak."
             judulReview= "Review Rumah Padang Elok"
-            detailReview= "makanannya enak-enak, di nasi padang nya ada kerupuk pangsit berbeda dengan rumah makan padang lainnya juga sudah dapat gratis minum, juga di beri bumbu/kuah yang melimpah . tempat makannya bersih, disediakan tempat cuci tangan dan sabunnya, juga disediakan tissue sehingga kebersihannya terjamin Karbohidrat : nasi. Protein : ayam gulai. Vitamin dan Serat : sayur nangka, daun singkong"
+            detailReview= "makanannya enak-enak, di nasi padang nya ada kerupuk pangsit berbeda dengan rumah makan padang lainnya juga sudah dapat gratis minum, juga di beri bumbu/kuah yang melimpah . tempat makannya bersih, disediakan tempat cuci tangan dan sabunnya, juga disediakan tissue sehingga kebersihannya terjamin   "
             bgSrc={foto}
+            karbo="Karbohidrat : nasi."
+            protein="Protein : ayam gulai."
+            lemak="Vitamin dan Serat : sayur nangka, daun singkong"
             harga="15.000 - 25.000"
             jamBuka="09.00 - Makanan Habis"
             makanan1="Ayam Sayur"

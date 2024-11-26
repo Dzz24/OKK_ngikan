@@ -9,8 +9,12 @@ function SotoAyamHari(){
             harga="10.000 - 17.000"
             jamBuka="06.30 - 12.00"
             judulReview= "Review Soto Cak Heri"
-            detailReview= "Makanannya Enak, rich, dan light. Tempatnya bersih dan ramai, disediakan air minum Karbohidrat : Nasi, koyaProtein : Ayam suir rebusVitamin dan Mineral : Kol, tauge, timun, jus buah-buahanSerat : Nasi, Timun, kol, Tauge"
+            detailReview= "Makanannya enak dengan cita rasa yang kaya namun tetap ringan, menjadikannya pilihan yang pas untuk berbagai selera. Tempatnya bersih dan selalu ramai, mencerminkan kualitas yang dipercayai banyak orang, serta dilengkapi dengan fasilitas air minum yang membuat pengalaman makan semakin nyaman "
             bgSrc={foto}
+            karbo="Karbohidrat : Nasi, koya"
+            protein="Protein : Ayam suir rebus"
+            lemak="Vitamin dan Mineral : Kol, tauge, timun, jus buah-buahan"
+            vitamin="Serat : Nasi, Timun, kol, Tauge"
             makanan1="Ayam Suwir Rebus"
             makanan2="Kol"
             makanan3="Tauge"
