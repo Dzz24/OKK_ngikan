@@ -31,7 +31,7 @@ function Newnavbar(){
                   <li><a href="/list-warung">Kantin Unpad</a></li>
                 </ul>
               </li>
-              <li><a>Gizi</a></li>
+              <li><a href='/gizi'>Gizi</a></li>
               {/* <li><a href="">Item 4</a></li> */}
             </ul>
           </div>
